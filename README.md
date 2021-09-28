@@ -1,4 +1,4 @@
-# AndroidStudio_Contador
-All my android studio projects
+# AndroidStudio_Counter
+Easy counter for begginers
 
 In progress
