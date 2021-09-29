@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Contador</string>
+    <string name="zero">0</string>
+    <string name="date">Date</string>
+    <string name="reset">Reset</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="minus5">-5</string>
+    <string name="minus10">-10</string>
+    <string name="plus10">+10</string>
+    <string name="plus5">+5</string>
+</resources>
